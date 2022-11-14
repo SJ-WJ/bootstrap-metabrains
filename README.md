@@ -1,1 +1,3 @@
-# bootstrap-metabrains
+# Bootstrap 5 Course
+
+A mini-project course titled [Bootstrap 5 Course: Build Responsive Websites Like a Pro](https://www.packtpub.com/product/bootstrap-5-course-build-responsive-websites-like-a-pro-video/9781804617915) created by Meta Brains. Learn one of the most popular front-end frameworks, and how to make clean and modern style websites that work on any device. This repository is only meant for learning purposes.
